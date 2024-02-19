@@ -1,6 +1,7 @@
 public void setup(){
   size(1000, 1000);
   fill(225);
+  background(256, 256, 0);
 }
 public void draw(){
   fractals(500, 500, 500);
